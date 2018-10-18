@@ -16,3 +16,11 @@ I can link directly to my [about](about.html).
 
 <img src="images/dogpic.jpg" style="width:75%">
 
+### I can add code
+
+My code page is here [code](code.html).
+
+```{r}
+library(tidyverse)
+```
+
