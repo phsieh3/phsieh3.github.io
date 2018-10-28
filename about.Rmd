@@ -2,23 +2,23 @@
 title: "About"
 ---
 
-### Pei Yang Hsieh
+## Pei Yang Hsieh
 
-#### EDUCATION
+### EDUCATION
 
-Columbia University, Mailman School of Public Health
+#### Columbia University, Mailman School of Public Health
 May 2019 | New York, NY
 Master of Public Health, Environmental Health Sciences and Certificate in Molecular Epidemiology   
 Board Members Merit Scholarship Recipient                                                                                                                     
 
-University of California, Berkeley                                                            
+#### University of California, Berkeley                                                            
 May 2017 | Berkeley, CA
 Bachelor of Arts, Public Health | Honors with Distinction                                         
 Honors Thesis: Association between Fungi in Dust Analyzed by Quantitative PCR and Current Asthma in Housing: A Systematic Review
 
-#### PROFESSIONAL EXPERIENCE
+### PROFESSIONAL EXPERIENCE
 
-Resilience, Inclusion, Solidarity, and Empowerment Mentor                                             
+#### Resilience, Inclusion, Solidarity, and Empowerment Mentor                                             
 Aug. 2018 – Present
 Office of Diversity, Culture, and Inclusion, Mailman School of Public Health                            
 New York, NY
@@ -27,7 +27,7 @@ New York, NY
 
 •	Improved leadership and mentorship skills through monthly trainings and check-ins with mentees
 
-Research Assistant                                                                                    
+#### Research Assistant                                                                                    
 Feb. 2018 – Present
 Environmental Health Sciences Department, Mailman School of Public Health                               
 New York, NY
@@ -38,7 +38,7 @@ New York, NY
 
 •	Model potential cancer risk using Rstudio
 
-Research Assistant                                                                                    
+#### Research Assistant                                                                                    
 Jan. 2018 – Present
 Environmental Health Sciences Department, Mailman School of Public Health                               
 New York, NY
@@ -49,7 +49,7 @@ New York, NY
 
 •	Utilize QGIS to create maps on seasonality of human births and conception
 
-Research Assistant for Indoor Air Quality Program                                                     
+#### Research Assistant for Indoor Air Quality Program                                                     
 Aug. 2016 – Aug. 2018
 Environmental Health Laboratory, California Department of Public Health                                 
 Richmond, CA          
@@ -64,7 +64,7 @@ Richmond, CA
 
 •	Built literature searches on Pubmed for review on microbiological measurements on building dampness
 
-Projects and Development Coordinator (2016 – 2017)                                                    
+#### Projects and Development Coordinator (2016 – 2017)                                                    
 Nov. 2013 – May 2017
 UC Berkeley Alternative Breaks                                                                
 Berkeley, CA 
@@ -75,7 +75,7 @@ Berkeley, CA
 
 •	Fundraised over $500 through UC Berkeley Crowdfunding to raise money to provide financial aid stipends
 
-Finance Director (2015-2016)                                                                          
+#### Finance Director (2015-2016)                                                                          
 Nov. 2013 – May 2017
 UC Berkeley Alternative Breaks                                                                    
 Berkeley, CA 

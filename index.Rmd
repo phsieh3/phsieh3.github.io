@@ -6,15 +6,15 @@ title: "Welcome!"
 
 ### Who am I?
 
-MPH candicate in Environmental Health Sciences at Columbia University
+MPH candidate in Environmental Health Sciences at Columbia University
 
 <img src="images/Columbia.jpg" style="width:75%">
 
 ### Latest News
 
-Recently took a trip to Seattle! 
+Recently presented research at Indoor Air 2018! 
 
-<img src="images/space_needle.jpg">
+<img src="images/IA2018.jpg" style="width:75%">
 
 ### Links
 

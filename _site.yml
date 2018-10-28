@@ -8,7 +8,7 @@ navbar:
     - text: "Code"
       href: code.html
     - text: "Dashboard"
-      href: plotly.html
+      href: dashboard_template_1_.html
     - icon: fa-envelope fa-lg
       href: mailto:<ph2538@cumc.columbia.edu>
     - icon: fa-github fa-lg
