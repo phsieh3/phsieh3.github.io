@@ -4,19 +4,19 @@ title: "Welcome!"
 
 <img src="images/dogpic.jpg" style="width:75%">
 
-### MPH Candidate | Environmental Health Sciences | Molecular Epidemiology | Columbia University | Adventurous Traveler
+I go to Columbia University
 
-
+<img src="images/Columbia.jpg" style="width:75%">
 
 ### Latest News
 
 Recently took a trip to Seattle! 
 
-<img src="images/space_needle.jpg" style="width:75%">
+<img src="images/space_needle.jpg">
 
 ### Links
 
-I like [to look for code on the internet](https://www.google.com/).
+I like [use Google to help me with coding](https://www.google.com/).
 
 Check out my resume here [about](about.html).
 

@@ -4,61 +4,84 @@ title: "About"
 
 ### Pei Yang Hsieh
 
-EDUCATION
-Columbia University, Mailman School of Public Health                                                           May 2019 | New York, NY
+#### EDUCATION
+
+Columbia University, Mailman School of Public Health
+May 2019 | New York, NY
 Master of Public Health, Environmental Health Sciences and Certificate in Molecular Epidemiology   
 Board Members Merit Scholarship Recipient                                                                                                                     
 
-University of California, Berkeley                                                                                                    May 2017 | Berkeley, CA
-Bachelor of Arts, Public Health | Honors with Distinction                                                                           
+University of California, Berkeley                                                            
+May 2017 | Berkeley, CA
+Bachelor of Arts, Public Health | Honors with Distinction                                         
 Honors Thesis: Association between Fungi in Dust Analyzed by Quantitative PCR and Current Asthma in Housing: A Systematic Review
 
-PROFESSIONAL EXPERIENCE
-Resilience, Inclusion, Solidarity, and Empowerment Mentor                                                               Aug. 2018 – Present
-Office of Diversity, Culture, and Inclusion, Mailman School of Public Health                                                  New York, NY
+#### PROFESSIONAL EXPERIENCE
+
+Resilience, Inclusion, Solidarity, and Empowerment Mentor                                             
+Aug. 2018 – Present
+Office of Diversity, Culture, and Inclusion, Mailman School of Public Health                            
+New York, NY
+
 •	Peer mentor two first-generation and underrepresented minority students
+
 •	Improved leadership and mentorship skills through monthly trainings and check-ins with mentees
 
-Research Assistant                                                                                                                                     Feb. 2018 – Present
-Environmental Health Sciences Department, Mailman School of Public Health                                                  New York, NY
+Research Assistant                                                                                    
+Feb. 2018 – Present
+Environmental Health Sciences Department, Mailman School of Public Health                               
+New York, NY
+
 •	Analyze data and current literature on health effects from gas station emissions
+
 •	Utilize air pollution modeling softwares AERMOD and AERMET
+
 •	Model potential cancer risk using Rstudio
 
-Research Assistant                                                                                                                                      Jan. 2018 – Present
-Environmental Health Sciences Department, Mailman School of Public Health                                                  New York, NY
+Research Assistant                                                                                    
+Jan. 2018 – Present
+Environmental Health Sciences Department, Mailman School of Public Health                               
+New York, NY
+
 •	Evaluate current literature on fertility and women’s health
+
 •	Analyze data from menstrual cycle and fertility-related smartphone applications using Rstudio
+
 •	Utilize QGIS to create maps on seasonality of human births and conception
 
-Research Assistant for Indoor Air Quality Program                                                                           Aug. 2016 – Aug. 2018
-Environmental Health Laboratory, California Department of Public Health                                                        Richmond, CA                                                                         
+Research Assistant for Indoor Air Quality Program                                                     
+Aug. 2016 – Aug. 2018
+Environmental Health Laboratory, California Department of Public Health                                 
+Richmond, CA          
+
 •	Wrote review paper and gave podium presentation at Indoor Air 2018 conference 
+
 •	Developed Frequently Asked Questions about mold on cdph.ca.gov
+
 •	Created California housing code enforcement database, with over 90% coverage of state population
+
 •	Gained health communication skills by responding to public inquiries regarding indoor air quality issues
+
 •	Built literature searches on Pubmed for review on microbiological measurements on building dampness
 
-Projects and Development Coordinator (2016 – 2017)                                                                        Nov. 2013 – May 2017
-UC Berkeley Alternative Breaks                                                                                                                              Berkeley, CA 
+Projects and Development Coordinator (2016 – 2017)                                                    
+Nov. 2013 – May 2017
+UC Berkeley Alternative Breaks                                                                
+Berkeley, CA 
+
 •	Collaborated with campus organizations, donor organizations, and local community partners to partner with program
+
 •	Created brochures and PowerPoint presentations to market program to increase funding and participation
+
 •	Fundraised over $500 through UC Berkeley Crowdfunding to raise money to provide financial aid stipends
 
-Finance Director (2015-2016)                                                                                                                Nov. 2013 – May 2017
-UC Berkeley Alternative Breaks                                                                                                                              Berkeley, CA 
+Finance Director (2015-2016)                                                                          
+Nov. 2013 – May 2017
+UC Berkeley Alternative Breaks                                                                    
+Berkeley, CA 
+
 •	Managed $15000 program budget for 12 trips with over 150 program participants as Shinnyo-en Fellow for Public Service
+
 •	Applied for grants from Associated Students of University of California, receiving over $2000 in funding
+
 •	Facilitated trainings on trip planning, cultural competency, and community building to prepare student trip leaders
-
-Intern                                                                                                                                                       Feb. 2016 – May 2017
-California Emerging Infections Program                                                                                                                 Oakland, CA                                                                              
-•	Collaborated with program team on grant proposal for a Retail Meat project 
-•	Created over 100 case report forms and performed data entry for FoodNet database on Microsoft Access
-•	Assisted staff with sorting flu specimens and auditing case report forms to increase program efficiency 
-
-Research Apprentice for Environmental Science, Policy, and Management Department               Feb. 2015 – May 2016
-UC Berkeley Undergraduate Research Apprentice Program                                                                                    Berkeley, CA         
-•	Collaborated with a research team to study biodiversity and food insecurity in the Bay Area, CA
-•	Conducted ethnographic and ethnobotanical interviews with gardeners in Mandarin and English
-•	Transcribed and coded over 10 hour-long gardener interviews from audio files
