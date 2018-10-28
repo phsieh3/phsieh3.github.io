@@ -4,7 +4,9 @@ title: "Welcome!"
 
 <img src="images/dogpic.jpg" style="width:75%">
 
-I go to Columbia University
+### Who am I?
+
+MPH candicate in Environmental Health Sciences at Columbia University
 
 <img src="images/Columbia.jpg" style="width:75%">
 
@@ -16,7 +18,7 @@ Recently took a trip to Seattle!
 
 ### Links
 
-I like [use Google to help me with coding](https://www.google.com/).
+I like [learn new things on Google](https://www.google.com/).
 
 Check out my resume here [about](about.html).
 
