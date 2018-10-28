@@ -1,0 +1,75 @@
+---
+title: "Instacart Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(viridis)
+## Loading required package: viridisLite
+library(p8105.datasets)
+
+library(plotly)
+```
+
+```{r}
+set.seed(1)
+
+data(instacart)
+instacart = 
+  instacart %>% 
+  select(order_id, product_id, order_number, order_dow, order_hour_of_day, product_name, product_id, aisle, aisle_id, department_id, department) %>% 
+  mutate(order_dow = recode(order_dow, `0` = "Sunday", `1` = "Monday", `2` = "Tuesday", `3` = "Wednesday", `4` = "Thursday", `5` = "Friday", `6` = "Saturday")) %>% 
+  sample_n(5000)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+instacart %>%
+  group_by(order_dow, aisle) %>%
+  summarize(n = n()) %>% 
+  arrange(desc(n)) %>% 
+  top_n(10) %>% 
+  plot_ly(x = ~aisle, y = ~n, type = "scatter", mode = "markers",
+          alpha = 0.5,
+          color = ~order_dow)
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+  instacart %>% 
+  filter(aisle == "fresh vegetables" | aisle == "fresh fruits") %>% 
+  select(aisle, product_name) %>% 
+  group_by(aisle, product_name) %>% 
+  summarize(n = n()) %>% 
+  arrange(desc(n)) %>% 
+  top_n(10) %>% 
+  plot_ly(y = ~n, color = ~aisle, type = "box",
+          colors = "Set2")
+```
+
+### Chart C
+
+```{r}
+  instacart %>% 
+  filter(aisle == "yogurt" | aisle == "fresh vegetables" | aisle == "packaged vegetables fruits") %>% 
+  select(aisle, product_name) %>% 
+  group_by(aisle, product_name) %>% 
+  summarize(n = n()) %>% 
+  arrange(desc(n)) %>% 
+  top_n(2) %>% 
+  plot_ly(x = ~product_name, y = ~n, color = ~aisle, type = "bar")
+```
+
