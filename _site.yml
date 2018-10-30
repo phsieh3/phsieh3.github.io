@@ -5,14 +5,14 @@ navbar:
   right:
     - text: "About"
       href: about.html
-    - text: "Code"
-      href: code.html
     - text: "Dashboard"
       href: plotly_dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<ph2538@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/phsieh3/
+    - icon: fab fa-linkedin
+      href: https://www.linkedin.com/in/pei-yang-hsieh/
 output:
   html_document:
     theme: flatly

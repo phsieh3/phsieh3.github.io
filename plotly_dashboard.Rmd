@@ -6,7 +6,7 @@ output:
     vertical_layout: fill
 ---
 
-```{r setup, include=FALSE}
+```{r, include=FALSE}
 library(flexdashboard)
 library(tidyverse)
 library(viridis)
@@ -30,7 +30,7 @@ instacart =
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Chart A: Scatter Plot
 
 ```{r}
 instacart %>%
@@ -38,15 +38,18 @@ instacart %>%
   summarize(n = n()) %>% 
   arrange(desc(n)) %>% 
   top_n(10) %>% 
-  plot_ly(x = ~aisle, y = ~n, type = "scatter", mode = "markers",
+  rename(number_of_items = n) %>% 
+  plot_ly(x = ~aisle, y = ~number_of_items, type = "scatter", mode = "markers",
           alpha = 0.5,
-          color = ~order_dow)
+          color = ~order_dow) %>% 
+  layout(title = "Number of Items Ordered Per Aisle by Week Day")
+
 ```
 
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Chart B: Box Plot
 
 ```{r}
   instacart %>% 
@@ -56,11 +59,13 @@ Column {data-width=350}
   summarize(n = n()) %>% 
   arrange(desc(n)) %>% 
   top_n(10) %>% 
-  plot_ly(y = ~n, color = ~aisle, type = "box",
-          colors = "Set2")
+  rename(number_of_items = n) %>% 
+  plot_ly(y = ~number_of_items, color = ~aisle, type = "box",
+          colors = "Set2") %>% 
+  layout(title = "Number of Items Ordered in Fresh Vegetables vs Fresh Fruits Aisles")
 ```
 
-### Chart C
+### Chart C: Bar Plot
 
 ```{r}
   instacart %>% 
@@ -70,9 +75,11 @@ Column {data-width=350}
   summarize(n = n()) %>% 
   arrange(desc(n)) %>% 
   top_n(2) %>% 
-  plot_ly(x = ~product_name, y = ~n, color = ~aisle, type = "bar")
+  rename(number_of_items = n) %>% 
+  plot_ly(x = ~product_name, y = ~number_of_items, color = ~aisle, type = "bar") %>% 
+  layout(title = "Comparison of Number of Items Ordered in 3 Aisles ")
 ```
 ```{r}
-rmarkdown::render("plotly_dashboard.Rmd", output_format = "flex_dashboard")
+#rmarkdown::render("plotly_dashboard.Rmd", output_format = "flex_dashboard")
 ```
 
