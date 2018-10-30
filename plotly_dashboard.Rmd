@@ -62,7 +62,7 @@ Column {data-width=350}
   rename(number_of_items = n) %>% 
   plot_ly(y = ~number_of_items, color = ~aisle, type = "box",
           colors = "Set2") %>% 
-  layout(title = "Number of Items Ordered in Fresh Vegetables vs Fresh Fruits Aisles")
+  layout(title = "Number of Items Ordered - Fresh Vegetables vs Fresh Fruits")
 ```
 
 ### Chart C: Bar Plot
