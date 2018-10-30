@@ -27,7 +27,4 @@ Check out my resume here [about](about.html).
 
 My code page is here [code](code.html).
 
-```{r}
-library(tidyverse)
-```
-
+My dashboard is here [dashboard] (plotly_dashboard.html)
