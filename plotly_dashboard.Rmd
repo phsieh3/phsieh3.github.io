@@ -72,4 +72,7 @@ Column {data-width=350}
   top_n(2) %>% 
   plot_ly(x = ~product_name, y = ~n, color = ~aisle, type = "bar")
 ```
+```{r}
+rmarkdown::render("plotly_dashboard.Rmd", output_format = "flex_dashboard")
+```
 
